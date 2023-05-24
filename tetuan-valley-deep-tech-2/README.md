@@ -1,4 +1,4 @@
-# Facebook SAM for Annotations and Stable Diffusion
+# Facebook SAM for Annotations and combined with Stable Diffusion Inpainting
 ## Instructions
 ### Execute in local environment (RECOMMENDED)
 - Open the terminal and create a conda environment from file:   `conda env create -f environment.yml`
